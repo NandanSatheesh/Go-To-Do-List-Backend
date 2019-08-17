@@ -78,6 +78,12 @@ Response -
 - Add Created Date and Updated Date in the Database.
 - Organize Code into different packages. 
 
+### Go-Libraries Used
+
+- database/sql
+- go-gin
+- go-sql-driver/mysql
+
 
 ### Development
 
